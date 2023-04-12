@@ -2,5 +2,7 @@
 
 https://github.com/PiToGit/Coaching_PiT.git
 
+git@github.com:PiToGit/Coaching_PiT.git
+
 
 
